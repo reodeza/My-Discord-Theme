@@ -42,9 +42,9 @@
 	opacity: 0.6;
 }
 
-.guilds-2JjMmN .listItem-3SmSlK :not(span) {border-radius: 4px;}
+//.guilds-2JjMmN .listItem-3SmSlK :not(span) {border-radius: 4px;}
 
-.listRow-hutiT_ .iconInactive-26M06U {
+//.listRow-hutiT_ .iconInactive-26M06U {
 	border-radius: 4px;
     width: 32px;
 	height: 32px;
@@ -207,14 +207,14 @@
   overflow: hidden;
 }
 
-//.container-1YxwTf .inner-NQg18Y {
+.container-1YxwTf .inner-NQg18Y {
   border-radius: 5px;
 }
-//.container-1Gt1iQ {
+.container-1Gt1iQ {
   border-radius: 5px;
 }
   
-//#app-mount .popout-3G62UL::before {
+#app-mount .popout-3G62UL::before {
   border-radius: 4px;
 }
 
