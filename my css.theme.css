@@ -220,32 +220,6 @@
 
 /*Hide Stuff*/
 
-.members-3WRCEx {
-height: auto;
-max-height: 100vh;
-}
-.layout-1qmrhw {
-justify-content: unset;
-}
-
-.chatContent-3KubbW:not([aria-label^="༺⟅💬⟆༻public-chat (channel)"]) {
-	max-width: calc(100% - 60px);
-}
-
-.title-31SJ6t {
-	z-index: 11;
-}
-
-.members-3WRCEx,
-.membersWrap-3NUR2t, .container-2o3qEW {
-	border-radius: 20px 0 0 20px !important;
-	min-width: 60px;
-	transition-duration: 500ms;
-	transition-property: box-shadow, min-width, width;
-	width: 60px;
-	z-index: 10;
-}
-
 .members-3WRCEx:hover,
 .membersWrap-3NUR2t:hover {
 	min-width: 240px;
